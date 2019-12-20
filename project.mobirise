@@ -892,7 +892,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/slide-17-85x48.png",
                 "title": "translations into Yiddish",
                 "text": "",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide-16-1024x576.png",
@@ -910,9 +910,9 @@
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/slide-5.png",
                 "tooltip": "@PROJECT_PATH@/assets/images/slide-5-85x48.png",
-                "title": "art books",
+                "title": "art books, posters",
                 "text": "",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide-12-1024x576.png",
