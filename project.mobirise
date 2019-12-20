@@ -861,7 +861,7 @@
                 "src": "@PROJECT_PATH@assets/images/slide-15.png",
                 "tooltip": "@PROJECT_PATH@/assets/images/slide-15-85x48.png",
                 "title": "literature: novels, poetry, theatre",
-                "text": "text 1",
+                "text": "",
                 "active": false
               },
               {
@@ -872,7 +872,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/slide-7-85x48.png",
                 "title": "history, encyclopedias",
                 "text": "",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide-5-1024x576.png",
@@ -885,21 +885,21 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide-8.png",
+                "image": "@PROJECT_PATH@/assets/images/slide-17-1024x576.png",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slide-5.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/slide-5-85x48.png",
-                "title": "rare, old books",
+                "src": "@PROJECT_PATH@/assets/images/slide-17.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/slide-17-85x48.png",
+                "title": "translations into Yiddish",
                 "text": "",
-                "active": false
+                "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide-9.png",
+                "image": "@PROJECT_PATH@/assets/images/slide-16-1024x576.png",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slide-5.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/slide-5-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/slide-16.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/slide-16-85x48.png",
                 "title": "magazines, journals, newspapers",
                 "text": "",
                 "active": false
@@ -920,7 +920,7 @@
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/slide-12.png",
                 "tooltip": "@PROJECT_PATH@/assets/images/slide-12-85x48.png",
-                "title": "translations of world literature",
+                "title": "rare, old books",
                 "text": "",
                 "active": false
               },
